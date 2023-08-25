@@ -12,12 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bugragormus&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bugragormus&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=bugragormus&icon=3&color=4)](https://visitcount.itsvg.in)
 
