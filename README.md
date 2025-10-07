@@ -21,19 +21,15 @@
 </div>
 
 
-
-
-
-
 <h1 align="center">Hi! 👋 I'm Buğra</h1>
 
-
-#
 
 <h3 align="left">👨‍💻  About Me</h3>
 
 
 <p align="center">🎓 Software Engineer & MSc in Artificial Intelligence<br>🧠 Passionate about AI, data, and building innovative software<br>⚡ Always learning, creating, and sharing what I discover</p>
+
+#
 
 
 <h3 align="left">🛠 Language and tools</h3>
