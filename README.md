@@ -38,7 +38,6 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
-#
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40" alt="python logo"  />
@@ -70,7 +69,7 @@
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
 </div>
 
-
+#
 
 <div align="center">
   <img width="100%" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk4NzUzMzQsIm5iZiI6MTc1OTg3NTAzNCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDA3VDIyMTAzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFmOTk4ZGY0NWYyN2E1MjUzMGRmNjMxNDk0NDU4N2M1ODkxYmQ1MDczMGM0ZWM0NmJmNGQ4ZWI1NmFlYzFhNzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.PS7h2xdPMSpkJ0IvKE_fGe8JFZ97nTfn_GGiCHMSFzs"/>
