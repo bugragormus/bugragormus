@@ -79,10 +79,13 @@
 
 
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
-       alt="Pac-Man Animation" 
-       style="display:block; margin:auto; width:100%; height:150px; object-fit:cover;" />
+<div style="display:flex; justify-content:center; align-items:center; gap:10px;">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" 
+       alt="GIF 1" 
+       style="width:45%; height:auto;"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk4NzUzMzQsIm5iZiI6MTc1OTg3NTAzNCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDA3VDIyMTAzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFmOTk4ZGY0NWYyN2E1MjUzMGRmNjMxNDk0NDU4N2M1ODkxYmQ1MDczMGM0ZWM0NmJmNGQ4ZWI1NmFlYzFhNzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.PS7h2xdPMSpkJ0IvKE_fGe8JFZ97nTfn_GGiCHMSFzs" 
+       alt="GIF 2" 
+       style="width:45%; height:auto;"/>
 </div>
 
 
