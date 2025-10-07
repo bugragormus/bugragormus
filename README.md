@@ -71,7 +71,7 @@
 #
 
 <div align="center">
-  <img width="100%" src="https://imgur.com/a/rjB7Viq"/>
+  <img width="100%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzE2a29rcjE2ZmRzZ2xpaWhzMmU0YzJtN3hqbHlnc2dxMm9tOXpoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cITHAfqcdECGjJuyLN/giphy.gif"/>
 </div>
 
 
