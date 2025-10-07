@@ -2,13 +2,11 @@
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient&customColorList=22" />
 </div>
 
-#
 
 <div align="center">
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN215dzdmYW9vaW1qdDN0dnE2c3IwNHNuMTJ6dXFxZ2Z1ejBwejhvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif"  />
 </div>
 
-#
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bugragormus" target="_blank">
@@ -22,7 +20,6 @@
   </a>
 </div>
 
-#
 
 
 
@@ -35,11 +32,9 @@
 
 <h3 align="left">👨‍💻  About Me</h3>
 
-#
 
 <p align="center">🎓 Software Engineer & MSc in Artificial Intelligence<br>🧠 Passionate about AI, data, and building innovative software<br>⚡ Always learning, creating, and sharing what I discover</p>
 
-#
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -75,7 +70,6 @@
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
 </div>
 
-#
 
 
 <div align="center">
@@ -83,10 +77,6 @@
 </div>
 
 
-#
-
 <div class="footer">
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient&customColorList=22" />
 </div>
-
-#
