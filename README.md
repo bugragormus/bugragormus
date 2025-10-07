@@ -88,3 +88,34 @@
 </div>
 
 ###
+
+<style>
+  .header, .footer {
+    /* Gradient background */
+    background: linear-gradient(
+      90deg,
+      hsla(185, 64%, 51%, 1) 0%,
+      hsla(277, 74%, 24%, 1) 100%
+    );
+    background: -moz-linear-gradient(
+      90deg,
+      hsla(185, 64%, 51%, 1) 0%,
+      hsla(277, 74%, 24%, 1) 100%
+    );
+    background: -webkit-linear-gradient(
+      90deg,
+      hsla(185, 64%, 51%, 1) 0%,
+      hsla(277, 74%, 24%, 1) 100%
+    );
+    filter: progid:DXImageTransform.Microsoft.gradient(
+      startColorstr="#30C5D2",
+      endColorstr="#471069",
+      GradientType=1
+    );
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+</style>
